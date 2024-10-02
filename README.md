@@ -24,6 +24,9 @@ Here’s the data formatted into a markdown table:
 | DE Shaw                      | 40 LPA   | 28 LPA   |
 | Delhivery                    | 24 LPA   | 20 LPA   |
 | FinBox                       | 22 LPA   | 18 LPA   |
+
+| Company                      | CTC       | Base (Bonus Included)   |
+|------------------------------|-----------|----------|
 | Flipkart                     | 27 LPA   | 18 LPA   |
 | Freshdesk                    | 24 LPA   | 20 LPA   |
 | Freshworks                   | 26 LPA   | 23 LPA   |
@@ -41,6 +44,9 @@ Here’s the data formatted into a markdown table:
 | Intel                        | 28 LPA   | 24 LPA   |
 | Intuit                       | 30 LPA   | 20 LPA   |
 | JPMorgan                     | 32 LPA   | 25 LPA   |
+
+| Company                      | CTC       | Base (Bonus Included)   |
+|------------------------------|-----------|----------|
 | Kotak Mahindra Bank         | 19 LPA   | 15 LPA   |
 | Lenskart                     | 24 LPA   | 19 LPA   |
 | Magicbricks                  | 24 LPA   | 20 LPA   |
@@ -58,6 +64,9 @@ Here’s the data formatted into a markdown table:
 | OYO                          | 21 LPA   | 16 LPA   |
 | PayPal                       | 35 LPA   | 29 LPA   |
 | Paytm                        | 16 LPA   | 10 LPA   |
+
+| Company                      | CTC       | Base (Bonus Included)   |
+|------------------------------|-----------|----------|
 | Pepperfry                    | 21 LPA   | 16 LPA   |
 | Pharmeasy                    | 25 LPA   | -        |
 | Porter                       | 20 LPA   | 16 LPA   |
@@ -75,6 +84,9 @@ Here’s the data formatted into a markdown table:
 | Udaan                        | 28 LPA   | 23 LPA   |
 | Unacademy                    | 26 LPA   | 21 LPA   |
 | Uber                         | 32 LPA   | 28 LPA   |
+
+| Company                      | CTC       | Base (Bonus Included)   |
+|------------------------------|-----------|----------|
 | Upstox                      | 27 LPA   | 23 LPA   |
 | Vedantu                     | 24 LPA   | 20 LPA   |
 | VMware                       | 38 LPA   | 29 LPA   |
