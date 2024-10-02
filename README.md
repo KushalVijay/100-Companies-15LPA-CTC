@@ -102,6 +102,9 @@ Here’s the data formatted into a markdown table:
 | PayU                         | 30 LPA   | 25 LPA   |
 | Samsung                      | 26 LPA   | 20 LPA   |
 | Adobe                        | 42 LPA   | 32 LPA   |
+
+| Company                      | CTC       | Base (Bonus Included)   |
+|------------------------------|-----------|----------|
 | Swiggy           | 28-35 LPA   | 16-23 LPA |
 | Dream11          | 34 LPA      | 20 LPA    |
 | Urban Company     | 22 LPA      | 14 LPA    |
